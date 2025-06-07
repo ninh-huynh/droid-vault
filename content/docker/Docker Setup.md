@@ -15,4 +15,11 @@ colima start -f
 # TODO, login to Docker Hub?
 ```
 
+Clean up colima when unused
+```bash
+colima prune
+colima delete
+```
+
 ## Using Docker Desktop (free for personal only)
+
